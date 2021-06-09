@@ -43,3 +43,8 @@ Outras fontes para incluir no projeto...
 http://bvsms.saude.gov.br/dicas-em-saude/2854-poliomielite-paralisia-infantil
 
 http://tabnet.datasus.gov.br/cgi/pni/%5Ccpnidescr.htm
+
+https://antigo.saude.gov.br/saude-de-a-z/clamidia/965-saude-de-a-a-z/poliomielite-paralisia-flacida-aguda/13461-decricao-polio
+
+https://portalarquivos.saude.gov.br/images/pdf/2016/abril/07/Plano-p--lio--Brasil--07-04-2016.pdf
+
