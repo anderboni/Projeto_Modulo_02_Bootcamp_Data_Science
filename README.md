@@ -36,3 +36,10 @@ Sobre o Programa Nacional de Imunizações
 Sistema de Informações do PNI
 O objetivo fundamental do SI-PNI é possibilitar aos gestores envolvidos no programa uma avaliação dinâmica do risco quanto à ocorrência de surtos ou epidemias, a partir do registro dos imunos aplicados e do quantitativo populacional vacinado, que são agregados por faixa etária, em determinado período de tempo, em uma área geográfica. Por outro lado, possibilita também o controle do estoque de imunos necessário aos administradores que têm a incumbência de programar sua aquisição e distribuição.
 Fonte: http://pni.datasus.gov.br/
+
+
+Outras fontes para incluir no projeto...
+
+http://bvsms.saude.gov.br/dicas-em-saude/2854-poliomielite-paralisia-infantil
+
+http://tabnet.datasus.gov.br/cgi/pni/%5Ccpnidescr.htm
