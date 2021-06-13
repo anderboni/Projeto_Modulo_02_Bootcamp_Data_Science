@@ -48,3 +48,11 @@ https://antigo.saude.gov.br/saude-de-a-z/clamidia/965-saude-de-a-a-z/poliomielit
 
 https://portalarquivos.saude.gov.br/images/pdf/2016/abril/07/Plano-p--lio--Brasil--07-04-2016.pdf
 
+-----
+
+Sobre o aumento de casos de poliomielite
+
+https://g1.globo.com/bemestar/noticia/casos-de-sarampo-e-poliomelite-aumentaram-em-todo-o-mundo-diz-relatorio-da-oms.ghtml
+
+https://saude.abril.com.br/blog/com-a-palavra/estamos-mesmo-livres-da-poliomielite/
+
