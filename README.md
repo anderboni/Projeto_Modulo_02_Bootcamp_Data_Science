@@ -28,15 +28,21 @@ Sobre o "Sistema de Informações do Programa Nacional de Imunizações"
 O objetivo fundamental do SI-PNI é possibilitar aos gestores envolvidos no programa uma avaliação dinâmica do risco quanto à ocorrência de surtos ou epidemias, a partir do registro dos imunos aplicados e do quantitativo populacional vacinado, que são agregados por faixa etária, em determinado período de tempo, em uma área geográfica. Por outro lado, possibilita também o controle do estoque de imunos necessário aos administradores que têm a incumbência de programar sua aquisição e distribuição.
 Fonte: http://pni.datasus.gov.br/
 
+---
 ## 2-Projeto
-O projeto tem por objetivo analisar os dados relativos a GASTOS do SUS com internações no período de 2008 a 2020, além de dados relativos a INTERNAÇÕES e POPULAÇÃO no mesmo período, com ênfase na Região Sul do País (Paraná, Santa Catarina e Rio Grande do Sul). 
+O projeto tem como proposta realizar uma análise relativa às imunizações para a POLIOMIELITE no perído compreendido entre 1997 e 2018, em nível de país, de forma ampla, e dos Estados da Região Sul, em particular, comparando com a população no mesmo período ou em certo período a ser determinado ao longo do estudo, conforme disponibilidade dos dados.
 Os comentários relativos a análise dos dados são realizados ao longo do notebook, a partir do qual surgem algumas hipóteses e conclusões prévias.
-Ainda sobre o projeto, para uma melhor análise e estruturação dos dados, este foi dividido em três FASES, conforme exposto abaixo:
 
-**POLIOMIELITE**
+O projeto baseia-se no fato de haver um aumento de casos de poliomielite, o que pode ser averiguado nos seguintes artigos:
 
+https://g1.globo.com/bemestar/noticia/casos-de-sarampo-e-poliomelite-aumentaram-em-todo-o-mundo-diz-relatorio-da-oms.ghtml
 
-Outras fontes para incluir no projeto...
+https://saude.abril.com.br/blog/com-a-palavra/estamos-mesmo-livres-da-poliomielite/
+
+---
+**SOBRE A POLIOMIELITE**
+
+Outras fontes de pesquisa sobre a poliomielite:
 
 http://bvsms.saude.gov.br/dicas-em-saude/2854-poliomielite-paralisia-infantil
 
@@ -46,11 +52,22 @@ https://antigo.saude.gov.br/saude-de-a-z/clamidia/965-saude-de-a-a-z/poliomielit
 
 https://portalarquivos.saude.gov.br/images/pdf/2016/abril/07/Plano-p--lio--Brasil--07-04-2016.pdf
 
------
+---
+## 3-Hipótese
 
-Sobre o aumento de casos de poliomielite
+Partiremos do pressuposto de haver um aumento de casos de poliomielite em crianças, conforme publicações disponibilizadas por meio dos links acima, que pode ser originado pela falta de aplicação de vacinas. É possível que a causa pode surgir tanto da falta de doses para vacinação ou a partir de campanhas não abrangentes por parte do governo. Outra possibilidade a ser considerada é a falta de adesão às campanhas por parte dos pais ou responsáveis. Durante o estudo é possível que seja percebida uma diminuição na aplicação das vacinas no decorrer dos anos, restando determinar a causa deste decrécimo.
 
-https://g1.globo.com/bemestar/noticia/casos-de-sarampo-e-poliomelite-aumentaram-em-todo-o-mundo-diz-relatorio-da-oms.ghtml
+---
+## 4-Conclusões
 
-https://saude.abril.com.br/blog/com-a-palavra/estamos-mesmo-livres-da-poliomielite/
+As conclusões que obtivemos a partir da análise dos dados estão apresentadas no final do notebook, entretanto convém advertir que são parciais. 
+
+---
+## 5-Continuidade e Considerações Finais
+
+O presente projeto ainda carece de análises mais profundas, que serão obitidas a partir da aquisição de outros dados em momente posterior. Também é importante mencionar que alguns ajustes ainda serão necessários, principalmente quanto à apresentação dos dados (visualização), o que esperamos seja realizado em breve. Sendo assim, manteremos este projeto em aberto para futuras alterações.
+
+
+
+
 
