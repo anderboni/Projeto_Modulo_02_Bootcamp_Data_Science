@@ -8,8 +8,8 @@ No presente repositório inserimos o notebook e os dados utilizados na análise 
 ---
 ## 1-Dados
 
-Os dados utilizados neste projeto são provenientes do TABNET do Datasus, que pode ser encontrado no endereço http://tabnet.datasus.gov.br/cgi/tabcgi.exe?pni/cnv/cpniuf.def, e do IBGE, que pode ser encontrado no endereço https://sidra.ibge.gov.br/tabela/6579.
-As tabelas em CSV e EXLS utilizadas foram alocadas na pasta DADOS, neste repositório do GitHub. Salientamos que os dados relativos à população foram transpostos diretamente na tabela original em Excel, o que foi realizado para que estejam em conformidade com a estrutura de dados de poliomielite previamente adquirida. 
+Os dados utilizados neste projeto são provenientes do TABNET do Datasus, que podem ser encontrados no endereço http://tabnet.datasus.gov.br/cgi/tabcgi.exe?pni/cnv/cpniuf.def, e do IBGE, que podem ser encontrados no endereço https://sidra.ibge.gov.br/tabela/6579.
+As tabelas em CSV e EXLS utilizadas foram alocadas na pasta DADOS, neste mesmo repositório do GitHub. Salientamos que os dados relativos à população foram transpostos diretamente na tabela original em Excel, o que foi realizado para que estejam em conformidade com a estrutura de dados de poliomielite previamente adquirida. 
 
 Algumas notas acerca dos dados de POLIOMIELITE:
 
@@ -38,10 +38,10 @@ Fonte: http://pni.datasus.gov.br/
 
 ---
 ## 2-Projeto
-O projeto tem como proposta realizar uma análise relativa às imunizações para a POLIOMIELITE no perído compreendido entre 1997 e 2018, em nível de país, de forma ampla, e dos Estados da Região Sul, em particular, comparando com a população no mesmo período ou em certo período a ser determinado ao longo do estudo, conforme disponibilidade dos dados.
+O projeto tem como proposta realizar uma análise relativa às imunizações para a POLIOMIELITE no perído compreendido entre 1997 e 2018, em nível de país (Brasil), de forma ampla, e dos Estados da Região Sul, em particular, comparando com a população no mesmo período ou em certo período a ser determinado ao longo do estudo, conforme disponibilidade dos dados.
 Os comentários relativos a análise dos dados são realizados ao longo do notebook, a partir do qual surgem algumas hipóteses e conclusões prévias.
 
-O projeto baseia-se no fato de haver um indicativo de perigo de reintrodução do vírus da poliomielite no País, embora em princípio não haja casos confirmados de paralisia infantil no Brasil, o que pode ser averiguado nos seguintes artigos:
+O projeto baseia-se no fato de haver um indicativo de perigo de reintrodução do vírus da poliomielite no País, embora em princípio não haja casos confirmados de paralisia infantil no Brasil desde 1989. Os seguintes artigos são utilzados como fonte de pesquisa:
 
 https://www.sbmt.org.br/portal/perigo-de-reintroducao-da-poliomielite/
 
@@ -51,7 +51,7 @@ https://g1.globo.com/bemestar/noticia/casos-de-sarampo-e-poliomelite-aumentaram-
 
 https://saude.abril.com.br/blog/com-a-palavra/estamos-mesmo-livres-da-poliomielite/
 
-As informações dão conta ainda que que a cobertura vacinal no país, para este tipo de virus, tem se reduzido, o que motiva a análise dos dados relativos ás doses de vacinas distribuidas aos Estados, a fim de averiguar estas afirmações.
+As informações dão conta ainda que que a cobertura vacinal no país, para este tipo de virus, tem se reduzido, o que motiva a análise dos dados relativos às doses de vacinas distribuidas aos Estados, a fim de averiguar estas afirmações.
 
 ---
 **SOBRE A POLIOMIELITE**
@@ -74,7 +74,7 @@ Partiremos do pressuposto de haver um aumento de casos de poliomielite em crian�
 ---
 ## 4-Conclusões
 
-As conclusões que obtivemos a partir da análise dos dados estão apresentadas no final do notebook, entretanto convém advertir que são parciais. Outros dados e estudos posteriores deverão ser realizados para que seja possível elucidar de forma mais ampla a questão.
+As conclusões que obtivemos a partir da análise dos dados serão apresentadas ao final do notebook, entretanto convém advertir que são parciais. Outros dados e estudos posteriores deverão ser realizados para que seja possível elucidar de forma mais ampla a questão.
 
 ---
 ## 5-Continuidade e Considerações Finais
